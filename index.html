@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="ゲーム制作のスタートを知らせるページ" />
+    <title>ゲーム制作の準備完了</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        font-family:
+          "Hiragino Sans", "Yu Gothic", Meiryo, system-ui, -apple-system,
+          sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        min-height: 100vh;
+        min-height: 100svh;
+        margin: 0;
+        display: grid;
+        place-items: center;
+        overflow: hidden;
+        color: #f8fafc;
+        background:
+          radial-gradient(circle at 20% 20%, #7c3aed 0, transparent 35%),
+          radial-gradient(circle at 80% 75%, #2563eb 0, transparent 38%),
+          #090e1a;
+      }
+
+      body::before,
+      body::after {
+        content: "";
+        position: fixed;
+        width: 18rem;
+        aspect-ratio: 1;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.06);
+        filter: blur(1px);
+      }
+
+      body::before {
+        top: -9rem;
+        right: -5rem;
+      }
+
+      body::after {
+        bottom: -11rem;
+        left: -4rem;
+      }
+
+      main {
+        position: relative;
+        width: min(90%, 42rem);
+        padding: clamp(2.5rem, 7vw, 5rem) clamp(1.5rem, 6vw, 4rem);
+        text-align: center;
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        border-radius: 2rem;
+        background: rgba(15, 23, 42, 0.68);
+        box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.35);
+        backdrop-filter: blur(18px);
+      }
+
+      .icon {
+        display: inline-grid;
+        width: 5rem;
+        aspect-ratio: 1;
+        place-items: center;
+        margin-bottom: 1.5rem;
+        font-size: 2.5rem;
+        border-radius: 1.5rem;
+        background: linear-gradient(135deg, #8b5cf6, #3b82f6);
+        box-shadow: 0 0.75rem 2rem rgba(99, 102, 241, 0.4);
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(1.75rem, 5vw, 3rem);
+        line-height: 1.4;
+        letter-spacing: 0.04em;
+        text-wrap: balance;
+      }
+
+      .status {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.6rem;
+        margin: 1.75rem 0 0;
+        padding: 0.55rem 1rem;
+        color: #bbf7d0;
+        font-size: 0.9rem;
+        font-weight: 700;
+        border: 1px solid rgba(74, 222, 128, 0.25);
+        border-radius: 999px;
+        background: rgba(34, 197, 94, 0.1);
+      }
+
+      .status::before {
+        content: "";
+        width: 0.55rem;
+        aspect-ratio: 1;
+        border-radius: 50%;
+        background: #4ade80;
+        box-shadow: 0 0 0.8rem #4ade80;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="icon" aria-hidden="true">🎮</div>
+      <h1>ゲーム制作の準備ができました！</h1>
+      <p class="status">READY TO START</p>
+    </main>
+  </body>
+</html>
