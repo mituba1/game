@@ -1,0 +1,1258 @@
+[
+  {
+    "path": "assets/images/barn_bg.png",
+    "width": 375,
+    "height": 666,
+    "bytes": 402610,
+    "sha256": "d08e64f6f546087fc24354a7b16c4897cd43466a2831b093fbe9cb4d4e134ff8",
+    "git_blob": "d68e28a29a72d2eed911e8b91fbee9ff2e0f092e"
+  },
+  {
+    "path": "assets/images/birth_bg.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 1754001,
+    "sha256": "dc2d16f3089fa419c998d02573ca397aa23a178733052b7c87f00e9aac4b5303",
+    "git_blob": "e9fde5eede59d2129d0999a1bbeaec4e906ac120"
+  },
+  {
+    "path": "assets/images/shukka_bg.png",
+    "width": 941,
+    "height": 1672,
+    "bytes": 2308498,
+    "sha256": "5a224bb86e7af540829faf486eb50341ba4cfd337683ead34c1379397025afad",
+    "git_blob": "8d9357ee2e0da322a228195c11abfdab954d5b59"
+  },
+  {
+    "path": "assets/sprites/auto_feeder.png",
+    "width": 53,
+    "height": 72,
+    "bytes": 6455,
+    "sha256": "dde8d023a071832340bbd8acb5fd6fbb8fd563f4421473d6675be84ae15b3df8",
+    "git_blob": "43ec04a3fe81921ab68136e5265e9ea32cae2bec"
+  },
+  {
+    "path": "assets/sprites/auto_waterer.png",
+    "width": 52,
+    "height": 58,
+    "bytes": 5385,
+    "sha256": "b9b7b45b666a8ff10580fac99aaf5ecf1a57c663eaae6a19ce53be426ec5f7c2",
+    "git_blob": "74646dd8a6b75cfcd22d69f599d721146cf17cc0"
+  },
+  {
+    "path": "assets/sprites/beehive.png",
+    "width": 56,
+    "height": 60,
+    "bytes": 6076,
+    "sha256": "751949bac8dcc785f09a8ac026431b2546fdd3015c254c5ce757b70417f9a424",
+    "git_blob": "a5547def87d54ae6b1aa46987a9708a97d99497c"
+  },
+  {
+    "path": "assets/sprites/big_rock.png",
+    "width": 61,
+    "height": 53,
+    "bytes": 5992,
+    "sha256": "0cc62bff95e2a4bc07e7c40bd752243a94e42da3b2cd5dab4a2bf6c9a3c8550d",
+    "git_blob": "c41177e08d92cac5350f40f456eb0642c51526ff"
+  },
+  {
+    "path": "assets/sprites/brick_pile.png",
+    "width": 64,
+    "height": 48,
+    "bytes": 5647,
+    "sha256": "062d87565e9af3ffc1f8076e987981389759bf1cb1f9acc29a83bfae3a12343a",
+    "git_blob": "e317b13ecbcab0f072070ee155cc57ddcf5d9120"
+  },
+  {
+    "path": "assets/sprites/brush.png",
+    "width": 42,
+    "height": 77,
+    "bytes": 5887,
+    "sha256": "5becbdd212bd0ea5105ed63e8a737bb5a1ba033fe2661bf377c9fc3cdf7f5a98",
+    "git_blob": "259236e7a444028e592de8e7ba2a24017e9da273"
+  },
+  {
+    "path": "assets/sprites/buggy.png",
+    "width": 107,
+    "height": 86,
+    "bytes": 16794,
+    "sha256": "3a2697cb5c7f87cdf6c945385c557d88f693055100d7d216fe5c94323bb0d4ed",
+    "git_blob": "28c4b879dc2345bb0497e9514abe0354c43c9d19"
+  },
+  {
+    "path": "assets/sprites/char_down.png",
+    "width": 61,
+    "height": 85,
+    "bytes": 10044,
+    "sha256": "30ec37d75ccb275b121d2e3a1400fb5b55a1819fca8c651814a68804b5f47c6e",
+    "git_blob": "88345be4191d996c0b4842e57945eb55c975ab5a"
+  },
+  {
+    "path": "assets/sprites/char_left.png",
+    "width": 63,
+    "height": 85,
+    "bytes": 9858,
+    "sha256": "f5d7cf390df255cbc7398abbeca4a78a48eaa332adb61ad2f845a3382bd04375",
+    "git_blob": "56b553f19c1fb3777cbddc9ba00ec673eea5395b"
+  },
+  {
+    "path": "assets/sprites/char_right.png",
+    "width": 60,
+    "height": 85,
+    "bytes": 9571,
+    "sha256": "5c860ffb061daa26b778907601facb86888a9ec63365b562da31062314b52a92",
+    "git_blob": "f9709e9a4c2e89c7e8ac5868771143dd548dabc5"
+  },
+  {
+    "path": "assets/sprites/char_up.png",
+    "width": 59,
+    "height": 85,
+    "bytes": 9492,
+    "sha256": "8138e5f24983e219f9a0b248eb76d51f69693737cb624c994dba8760142e8ef0",
+    "git_blob": "a8fe46516dba08facfd1541f25064d3fc4c0bdac"
+  },
+  {
+    "path": "assets/sprites/char_walk_down.png",
+    "width": 61,
+    "height": 85,
+    "bytes": 9939,
+    "sha256": "36cf1070bd26f0efa0c85d590914b52ac2623601199a16e35f220366c917edc0",
+    "git_blob": "42c8e0e49c98bbe1456601da92800699f09b9798"
+  },
+  {
+    "path": "assets/sprites/char_walk_left.png",
+    "width": 62,
+    "height": 85,
+    "bytes": 9843,
+    "sha256": "714881c84530bd3a606c6e4fe32119f51c15e46c12e2692af7662bd1c3c8edbd",
+    "git_blob": "144c69fb6fae7732bb7777b898f995dc4e4c68a6"
+  },
+  {
+    "path": "assets/sprites/char_walk_right.png",
+    "width": 60,
+    "height": 85,
+    "bytes": 9827,
+    "sha256": "050b1d68961acf0e6e6e817e62506cc984205482412b87fdf1a2f438faadb3bb",
+    "git_blob": "a3d1c74772116d1ee6b959d636b9a0d1a170c04f"
+  },
+  {
+    "path": "assets/sprites/chicken_coop.png",
+    "width": 69,
+    "height": 80,
+    "bytes": 11264,
+    "sha256": "ed68982d3e395b76cb2e43bd410e94703a93296caa134ff982706aa1ae850273",
+    "git_blob": "658399af2a2e9cbf7f7781d6db83e1635e407133"
+  },
+  {
+    "path": "assets/sprites/combine_harvester.png",
+    "width": 94,
+    "height": 93,
+    "bytes": 18247,
+    "sha256": "dc96b5b9261da1a28ab258798f8970edeeda0265525edd4b1a547f5d00555283",
+    "git_blob": "abc0b2d9cea58e177d333ecd1622ed99664df7b0"
+  },
+  {
+    "path": "assets/sprites/compost_shed.png",
+    "width": 111,
+    "height": 112,
+    "bytes": 25837,
+    "sha256": "e4d7bef653083356f629faf4d8831ebcaffc996688508ce00bba236c1bb0cca0",
+    "git_blob": "18cad9e8bf99633e9a8fce3f6188b30759a6d3e5"
+  },
+  {
+    "path": "assets/sprites/cow_10m.png",
+    "width": 110,
+    "height": 94,
+    "bytes": 17141,
+    "sha256": "c9706d573b3d52a4deefed57b9b10e707f72d069087dae235dc1fd77f2bcc981",
+    "git_blob": "2af895635c123c3c36630e87638bc0d61661c47d"
+  },
+  {
+    "path": "assets/sprites/cow_2m.png",
+    "width": 83,
+    "height": 73,
+    "bytes": 10213,
+    "sha256": "eb9bbe902ea539839d19f1729f811c4bba54e762d388de56519a7222c7aea33d",
+    "git_blob": "34181d27e14ba027349cd79febf73d1b51a4a84f"
+  },
+  {
+    "path": "assets/sprites/cow_4m.png",
+    "width": 91,
+    "height": 80,
+    "bytes": 12371,
+    "sha256": "c8b4d087eaef9f8f18d3c6004d99229d2e6d4b27365d2da1366bc334232956d7",
+    "git_blob": "d98487995cac5c8fa9bc06bdbe06a5efc4757c16"
+  },
+  {
+    "path": "assets/sprites/cow_mother_base.png",
+    "width": 298,
+    "height": 240,
+    "bytes": 70068,
+    "sha256": "ab28472bddce3960529f1a7c0b65800a6dc11c60b55f1f89d1d57644982952d0",
+    "git_blob": "f0c585769448795159b5018e9c6a230e238b89b6"
+  },
+  {
+    "path": "assets/sprites/cow_mother.png",
+    "width": 152,
+    "height": 113,
+    "bytes": 27680,
+    "sha256": "5c236788f3ffbcc973e87053a90895b1eb7fc420bf7bcb0337db21960ff07336",
+    "git_blob": "47b61093c645771b62c8d8d053893ccac42fea87"
+  },
+  {
+    "path": "assets/sprites/cow_newborn.png",
+    "width": 75,
+    "height": 52,
+    "bytes": 6520,
+    "sha256": "a64a51fd60d504060613429eba6a49f16a557ef96691f705d60a03502e7f8dd8",
+    "git_blob": "fda910abcd373822df3f844085ec9c80e0cfd5b6"
+  },
+  {
+    "path": "assets/sprites/cursor.png",
+    "width": 55,
+    "height": 68,
+    "bytes": 6255,
+    "sha256": "b14f1ee9839c9cf435085a938772a6c46cb38fbaf8472b746571bb2fcf63eff9",
+    "git_blob": "37072f6a0c9225743e6a349f6d0c63cedb69fdcb"
+  },
+  {
+    "path": "assets/sprites/diary_barn.png",
+    "width": 227,
+    "height": 193,
+    "bytes": 81308,
+    "sha256": "86c1a816197cae0ae0afcbdcbf0558fab558cc6e5f21e2e61b438ae65c0d0813",
+    "git_blob": "10c9a2766cf943233167770e41d648693d261a1b"
+  },
+  {
+    "path": "assets/sprites/diary_book.png",
+    "width": 204,
+    "height": 160,
+    "bytes": 56597,
+    "sha256": "e5ccae8a7658862460bf61f2506d1cb6f15716fd2defffcf9120944b666c1cec",
+    "git_blob": "70c545327d16f6c745c84876b7fb4b2561100923"
+  },
+  {
+    "path": "assets/sprites/diary_calf.png",
+    "width": 185,
+    "height": 170,
+    "bytes": 50817,
+    "sha256": "f77c9b5a7fc2cb35089c491d0efceb4dd62ce946304c3d32db631a9b2b328d22",
+    "git_blob": "471d868f2ed20321daded92e2f1b62aec89c74c7"
+  },
+  {
+    "path": "assets/sprites/diary_clover.png",
+    "width": 166,
+    "height": 167,
+    "bytes": 45868,
+    "sha256": "10ecd50b7b24beb4c592794c17141d164d9fb2e0ea70b2dfc88673a7f29181bd",
+    "git_blob": "b666ca2bceb0f7a665f91505e6542f6f1ff0c7fc"
+  },
+  {
+    "path": "assets/sprites/diary_construction.png",
+    "width": 165,
+    "height": 161,
+    "bytes": 47357,
+    "sha256": "49eb6a1f91c97c6c01bd0c031aaef8e2eaa526af0d1fb92314f4992856e42529",
+    "git_blob": "5c3184084ee033c50022d93cb1d07da11e61a7a4"
+  },
+  {
+    "path": "assets/sprites/diary_cow_calf_rest.png",
+    "width": 291,
+    "height": 198,
+    "bytes": 89360,
+    "sha256": "fe943f32a22b3f42c79926c6fa3eab455184327d45d3f05d5fc4dbb61c534929",
+    "git_blob": "a28443dfcf162d1f1a837d906d138be1cf9906f7"
+  },
+  {
+    "path": "assets/sprites/diary_cow_eating.png",
+    "width": 195,
+    "height": 172,
+    "bytes": 58568,
+    "sha256": "9b7adbefa4fbe0e6bb212f0314f8e2b45fa2126de5d5da1637a51e6174ea1640",
+    "git_blob": "b1280eb61dcd1e31ef2142df41454aee068e84c4"
+  },
+  {
+    "path": "assets/sprites/diary_cow_farmer.png",
+    "width": 236,
+    "height": 187,
+    "bytes": 76126,
+    "sha256": "21e61ca64afe0aa8adf364f3af7c5287c0469b70f4a9d058a4a65fb935ef6e2f",
+    "git_blob": "8657c2a0a24edc77b0f901183a511b05f7ba7686"
+  },
+  {
+    "path": "assets/sprites/diary_cow_healed.png",
+    "width": 221,
+    "height": 180,
+    "bytes": 60163,
+    "sha256": "30b2d1b3d50252adfa7428863898860f4d946cbb435794acc2fd2672b40f3aae",
+    "git_blob": "5f95a82cc50f24b36a85f11fb9191a8e49d0ea53"
+  },
+  {
+    "path": "assets/sprites/diary_cow_sick.png",
+    "width": 238,
+    "height": 136,
+    "bytes": 47253,
+    "sha256": "2cd1f6e1dd8f52239d133936b569ff98e731f839a9b65885e86640c2a195d849",
+    "git_blob": "4ebdd601965abeb8f67e9caa28a4e64dfb5d116b"
+  },
+  {
+    "path": "assets/sprites/diary_cow_walk.png",
+    "width": 251,
+    "height": 180,
+    "bytes": 72055,
+    "sha256": "840436890241ebf508f60f956d4d303dd5157ec966c53b7df264e5558f2ba1c1",
+    "git_blob": "d84b276767c9278061f959d6d3c9c7a28aefd731"
+  },
+  {
+    "path": "assets/sprites/diary_cows_question.png",
+    "width": 206,
+    "height": 237,
+    "bytes": 69521,
+    "sha256": "c5a37cf206468036b23e477d74335745eb3c4defa631eb81bfdb80fbc33d04af",
+    "git_blob": "8e884ce54c40b26a23b17d2c51fa6d027c7b4f05"
+  },
+  {
+    "path": "assets/sprites/diary_cows_sparkle.png",
+    "width": 201,
+    "height": 195,
+    "bytes": 61721,
+    "sha256": "eefc93d44b1b7f37f08180e4eb6afb292d153ab1ab462504bea33b1aa7491314",
+    "git_blob": "7982d8a90377a426a36fe8fd52de1be4e4b6a757"
+  },
+  {
+    "path": "assets/sprites/diary_crystal.png",
+    "width": 141,
+    "height": 158,
+    "bytes": 39227,
+    "sha256": "ad39a010e9b7b967acb4a19d8af5c02e85b12166e27d38cd656ca054a61f8fad",
+    "git_blob": "774130a8da39963d0b37d7e5e71f2f20f2df0cd1"
+  },
+  {
+    "path": "assets/sprites/diary_fence.png",
+    "width": 191,
+    "height": 131,
+    "bytes": 46194,
+    "sha256": "c5b4310c983b5f62ac25b096c32d594f25c4dbbf11e6a9f51cf1a88146c9b029",
+    "git_blob": "be67664ec4d713e5c30add18d0698cabfbf31376"
+  },
+  {
+    "path": "assets/sprites/diary_gift.png",
+    "width": 162,
+    "height": 140,
+    "bytes": 40570,
+    "sha256": "b5b9ef48df1282a506c01320ece32a5f8950f3eeb831465f6805ae9f29c6db1d",
+    "git_blob": "ca607d3986a926304609bf0bca0135a36132d9ae"
+  },
+  {
+    "path": "assets/sprites/diary_grass_shine.png",
+    "width": 175,
+    "height": 179,
+    "bytes": 55965,
+    "sha256": "434e98ed258427d2095d9dbd18f22f8cf4063a037208ea0fc7edcc87d36a6cef",
+    "git_blob": "7b7be5fb9aa86d49b147851f691dee127ca2b1e9"
+  },
+  {
+    "path": "assets/sprites/diary_hay_bales.png",
+    "width": 203,
+    "height": 134,
+    "bytes": 50207,
+    "sha256": "658a583a82f6ef9371d1304ef1abd2c8cdc750053beedc6ef0bc93b5da6edea1",
+    "git_blob": "840bcd229f4f0fa4034955837d632058b91dea45"
+  },
+  {
+    "path": "assets/sprites/diary_landscape.png",
+    "width": 200,
+    "height": 151,
+    "bytes": 59237,
+    "sha256": "875d99d2a6ef9738ab29891be881dda643e21a8c145e2dc03d9ea2a29f7c6c7e",
+    "git_blob": "9adbcf235f1beabfc2dc1b1c823d16018abd64af"
+  },
+  {
+    "path": "assets/sprites/diary_manure.png",
+    "width": 167,
+    "height": 133,
+    "bytes": 35992,
+    "sha256": "2b66b05c76476bf3f31574b447652669cf7d4b2f4dbd5e07e520f0e70d97707f",
+    "git_blob": "d6959f344bdb9cc2b8eab84346a8215df071f30d"
+  },
+  {
+    "path": "assets/sprites/diary_map.png",
+    "width": 182,
+    "height": 147,
+    "bytes": 53675,
+    "sha256": "01fc4ac4986f1092c45b9c5cbae35901cbd9f093ee08f6e7891ffb294f212e10",
+    "git_blob": "2d202d5e6d4c82de66b1be5ff0f89d07bfd25492"
+  },
+  {
+    "path": "assets/sprites/diary_milk_can.png",
+    "width": 163,
+    "height": 153,
+    "bytes": 39108,
+    "sha256": "95a01f3009316f3da09224ac49ed8112cde0eccb0083602507f67fab1af9d640",
+    "git_blob": "a2483bb8ba5f7362c12e33155699920a7b99fc23"
+  },
+  {
+    "path": "assets/sprites/diary_money.png",
+    "width": 212,
+    "height": 169,
+    "bytes": 61227,
+    "sha256": "fb028a168ffca56d69df8f65f2bf8c4ed955b8a3fe26c34b786fd37bf7909d05",
+    "git_blob": "8ef77ab06184f23304bf7ee9ffeab5e110395e2c"
+  },
+  {
+    "path": "assets/sprites/diary_path.png",
+    "width": 198,
+    "height": 151,
+    "bytes": 58221,
+    "sha256": "0f052d84650d2b5e517ba42287a331043c7fb9df3e499f213aa0279c0f8a7282",
+    "git_blob": "89958c666af01a0efc83bb2fc669215ded8a8f14"
+  },
+  {
+    "path": "assets/sprites/diary_shipping.png",
+    "width": 279,
+    "height": 248,
+    "bytes": 111459,
+    "sha256": "832e7dba5b4b8315559da0fc03061d5fb087d5dd87014cc2a2ce7810c24c2e45",
+    "git_blob": "99893ad93c09ed6c18ed7c612623d42c5676d46d"
+  },
+  {
+    "path": "assets/sprites/diary_sprout.png",
+    "width": 143,
+    "height": 118,
+    "bytes": 30159,
+    "sha256": "604ae1977157dc431ff9feaee6e70af7cc5f045613c543a8b80feae3357726fc",
+    "git_blob": "fcd691428838f1f23071ee8e2b7abe6e2e398073"
+  },
+  {
+    "path": "assets/sprites/diary_sunrise.png",
+    "width": 194,
+    "height": 150,
+    "bytes": 53267,
+    "sha256": "c2ef8c0188fd943061b9f5419fcd5f99ae03f61d48dcb954043248ff25162c7a",
+    "git_blob": "a7212016cbb8e062648434d2a445a48e7dae59ed"
+  },
+  {
+    "path": "assets/sprites/diary_water_trough.png",
+    "width": 171,
+    "height": 143,
+    "bytes": 42257,
+    "sha256": "40c7a39c13e3122c2fffc5d8d26c4576bb94dbf30863326e08c8f59b55858b40",
+    "git_blob": "918931a292e5f9842b059933eb1a58895dd796ea"
+  },
+  {
+    "path": "assets/sprites/diary_wrap_bale.png",
+    "width": 177,
+    "height": 126,
+    "bytes": 40525,
+    "sha256": "c6cd753c9ce469cf5f690b8843ed6f2dcfd3538b15528782eae8e17d16b2a3cb",
+    "git_blob": "ef06f13933b16f382196a31691bb3ec401a4b641"
+  },
+  {
+    "path": "assets/sprites/dryer.png",
+    "width": 68,
+    "height": 108,
+    "bytes": 14815,
+    "sha256": "144268ddc839b902148f140e5003a3061e7ae7aa8146116617372da1ae16201c",
+    "git_blob": "8d446ad359f7dc4d3c92edd4fcfc8c60d2e9bf3e"
+  },
+  {
+    "path": "assets/sprites/farm_gate.png",
+    "width": 139,
+    "height": 97,
+    "bytes": 19633,
+    "sha256": "04cd3e315b70496116fda1eff8c71873eac80f99c59b790320043b9c190e4bc8",
+    "git_blob": "36829893eabe26e3b15c8f7747114291892c0ef7"
+  },
+  {
+    "path": "assets/sprites/feed_bag.png",
+    "width": 55,
+    "height": 60,
+    "bytes": 6258,
+    "sha256": "45164c9eeb12504dbf5a33886a0fba0f25dcd679594b6a8980636af8dc2c96b2",
+    "git_blob": "76288fff99e4e40f906472f04b153ed2cac977a7"
+  },
+  {
+    "path": "assets/sprites/feed_cart.png",
+    "width": 81,
+    "height": 73,
+    "bytes": 10990,
+    "sha256": "81d40671978c86010475059f449a3b7a750f50992c9fc4e03677337a9d546894",
+    "git_blob": "bbf768939a945318e35c6937d42640ffe468666a"
+  },
+  {
+    "path": "assets/sprites/feed_tank.png",
+    "width": 72,
+    "height": 137,
+    "bytes": 18703,
+    "sha256": "639d9a726dc53db099c5ec8e70acccf9a8a517d22fb2a2e652cca9adbd837da4",
+    "git_blob": "6f9c2a4de2a1ef0f4786f7ab18cefc59d4c34fcb"
+  },
+  {
+    "path": "assets/sprites/fence.png",
+    "width": 161,
+    "height": 76,
+    "bytes": 21583,
+    "sha256": "e3fc3d17624c5b60f688db69fbc1bdd3250247ff784abf9a3c04c3d1add3f2d6",
+    "git_blob": "a753bbb5315be7fd4c3deb03923a20c4b55464fa"
+  },
+  {
+    "path": "assets/sprites/fertilizer_bag.png",
+    "width": 53,
+    "height": 55,
+    "bytes": 5355,
+    "sha256": "3d8e899a2752d4f09235977877d2eaa8d9a7176f9a4429fdb511b081b63beab2",
+    "git_blob": "bb84fafbb142f8015f6e508ab4838dfd79267c4f"
+  },
+  {
+    "path": "assets/sprites/fertilizer_spreader.png",
+    "width": 91,
+    "height": 86,
+    "bytes": 14636,
+    "sha256": "4547ebd28dde1d41f2ccc1cd7cbfc5e262e2bf390e6fb06dc4add19ed2911a86",
+    "git_blob": "0b0e9d3f02d2bc8bee9e44195c7f520c25408afa"
+  },
+  {
+    "path": "assets/sprites/flower_bed.png",
+    "width": 72,
+    "height": 63,
+    "bytes": 9708,
+    "sha256": "3f15ca2eb067abd6632ee0b66c031dd2b736a44195552555b2d587ad12e086dd",
+    "git_blob": "8effdc191f92760ad683f0504d201dcb241baa49"
+  },
+  {
+    "path": "assets/sprites/generator.png",
+    "width": 69,
+    "height": 75,
+    "bytes": 10329,
+    "sha256": "24a21e779f965afeb45412eac2a20847479bab3ab2c01dcdc314aa2655f40ceb",
+    "git_blob": "4d4278dcae22ba622112e64d8b40ed75a2edff5e"
+  },
+  {
+    "path": "assets/sprites/goat_shed.png",
+    "width": 90,
+    "height": 84,
+    "bytes": 15370,
+    "sha256": "c7e5542d0f4e27afd6a2419f6568f23aa9b1492f91929f56b0820dc65b5da166",
+    "git_blob": "c49e09fb10dabaec5bc20315f62414f12393773a"
+  },
+  {
+    "path": "assets/sprites/greenhouse.png",
+    "width": 122,
+    "height": 125,
+    "bytes": 32865,
+    "sha256": "583a87d2c942ceaad8a724bd45193b6e106dc5f9a438158ce105ede479354710",
+    "git_blob": "7a78b2355f2f54d51840ddc52f29c67b2bb349e3"
+  },
+  {
+    "path": "assets/sprites/gyusha_large.png",
+    "width": 188,
+    "height": 160,
+    "bytes": 58885,
+    "sha256": "083664de77ddee4b6dc8fcdda04f896ec6292b6d7dde7766685a59ac4c9a63a2",
+    "git_blob": "f9c97e31abe83b3ea777aa0140ea26c0155eebc6"
+  },
+  {
+    "path": "assets/sprites/gyusha_small.png",
+    "width": 124,
+    "height": 125,
+    "bytes": 29806,
+    "sha256": "de023ecf3c6570261b234e21d95e112ff0c7dc7725acf9c34a63dcf516620f44",
+    "git_blob": "24149fbc57b4b5640610c0343855e90f184faac8"
+  },
+  {
+    "path": "assets/sprites/hay_roll.png",
+    "width": 62,
+    "height": 56,
+    "bytes": 7064,
+    "sha256": "ac73979d82779a97383b68c2a7035dffd70bc040c9fc5020b1fbc813a0bb1d50",
+    "git_blob": "35ed9e7af82ee2cf7b59fc62daeb9b9d6908f529"
+  },
+  {
+    "path": "assets/sprites/hoe.png",
+    "width": 61,
+    "height": 75,
+    "bytes": 6650,
+    "sha256": "96bf6eaa99e85a1903e9517d18854c534fae2a35c04022dcdae30bdb2a52161b",
+    "git_blob": "faf953e6ee95e80dde5ec5589c8ecc330cf98fc9"
+  },
+  {
+    "path": "assets/sprites/icon_event.png",
+    "width": 70,
+    "height": 68,
+    "bytes": 7735,
+    "sha256": "41c2c6208009b1dc923c1ec63ffeabc1e8e2cfb9396f1390362f9a12851c738b",
+    "git_blob": "31f1bb7a81f26f3555d540dadc03e3f9a3c7eb86"
+  },
+  {
+    "path": "assets/sprites/icon_kirakira.png",
+    "width": 60,
+    "height": 61,
+    "bytes": 5706,
+    "sha256": "7e55f56d4bc1056db4a6ad3858c85372abe3586fbb3496046db61ffade3e7015",
+    "git_blob": "8a40d247e07f84e0a4e17c108f4d4df6ffc6cd18"
+  },
+  {
+    "path": "assets/sprites/icon_mahou_tsubu.png",
+    "width": 55,
+    "height": 72,
+    "bytes": 7033,
+    "sha256": "da3964a40504d6f8f899d6a35ab7cf0345efe4f6d317dc2fd3ea931513175853",
+    "git_blob": "09001dc022c088a27c89f47563ba59836e5d6f9d"
+  },
+  {
+    "path": "assets/sprites/icon_mahou.png",
+    "width": 52,
+    "height": 69,
+    "bytes": 6343,
+    "sha256": "c59e4c5d826ac84ef9e45275416d0d6f0d5a7d428bf7d8ec4a488c504ae4a92b",
+    "git_blob": "252e2893983d7700682195389747d03a2d59703d"
+  },
+  {
+    "path": "assets/sprites/icon_okane.png",
+    "width": 60,
+    "height": 62,
+    "bytes": 6626,
+    "sha256": "2c229ebbcdfd4c8fcb895470d0da7b0daf201dba94326b6f14309f391b6e49ba",
+    "git_blob": "856027b6d2feeb9d6624771d1ea6f52c87099b83"
+  },
+  {
+    "path": "assets/sprites/icon_taicho.png",
+    "width": 60,
+    "height": 59,
+    "bytes": 6064,
+    "sha256": "e6bc1ca220d4e524a4c0b70286a7666f55986a06e4fdd77dba01b61ad08ce788",
+    "git_blob": "e9ecb994b62cfc0d38e7a68b259693dd04d84e77"
+  },
+  {
+    "path": "assets/sprites/icon_wrap_wara.png",
+    "width": 37,
+    "height": 36,
+    "bytes": 3231,
+    "sha256": "6c86fa0371a874c7af3125701a004ccc806b977af1ca2253b96e2350c5615d14",
+    "git_blob": "8caa6abffc576920618678e67dbc538286a9a707"
+  },
+  {
+    "path": "assets/sprites/ido.png",
+    "width": 86,
+    "height": 124,
+    "bytes": 18227,
+    "sha256": "6d94ab7eee197f516e0a471fd90d5645fe5b4ecd9b8df36dbe07f7574924d083",
+    "git_blob": "7b9ed94bc5447c205023a87b38dd9a1d8a0e1a07"
+  },
+  {
+    "path": "assets/sprites/kanban.png",
+    "width": 100,
+    "height": 100,
+    "bytes": 17072,
+    "sha256": "f717cb76a71074174e7c22bcd922e73a50cbf9d022b14b908437e2ada741e997",
+    "git_blob": "7573325d568f68a098ec94d77da0e4e04fddde2d"
+  },
+  {
+    "path": "assets/sprites/kansoroll.png",
+    "width": 96,
+    "height": 90,
+    "bytes": 16727,
+    "sha256": "f80c8ea1f9728a35d0fe3a57da4e174293049f923912c70fc6cbd89a8ba9a197",
+    "git_blob": "49c1c5f0f0ef18321599b87981f17f7351ec0727"
+  },
+  {
+    "path": "assets/sprites/keijiban.png",
+    "width": 117,
+    "height": 102,
+    "bytes": 21004,
+    "sha256": "05a101c322ec3bf36865960f8b4e27b4329c025b07b8dc3993ce2bac4688fe92",
+    "git_blob": "2013ccda4a449b2a7df6c387cc3cc41f5fe34479"
+  },
+  {
+    "path": "assets/sprites/keitora.png",
+    "width": 135,
+    "height": 101,
+    "bytes": 21300,
+    "sha256": "2bd00458d43e3a7ec578aec616b55f1068bfb47473802f7a4a4e2b407a37e687",
+    "git_blob": "5668f154f0dfad0a94a4733221ec093a840154b5"
+  },
+  {
+    "path": "assets/sprites/kibako.png",
+    "width": 93,
+    "height": 91,
+    "bytes": 15506,
+    "sha256": "9ea0b24a6d7879d38aa069363bf5a4078c9450ebce730cbdd042d358bbe4f86a",
+    "git_blob": "2b3f47d2bbeac4a18107faa5030525eee02085bc"
+  },
+  {
+    "path": "assets/sprites/kusamura.png",
+    "width": 86,
+    "height": 74,
+    "bytes": 12932,
+    "sha256": "eb313299ea419a601d5e7c1b04bc0a5c6166750641028d68fe6bdc8a50a4c156",
+    "git_blob": "50a77c278d2568d6a26e560625df413f237de4ef"
+  },
+  {
+    "path": "assets/sprites/lamp.png",
+    "width": 51,
+    "height": 135,
+    "bytes": 10631,
+    "sha256": "8a17f84b52ece3120249026d292fdd64e68ad30469a9f2c54bc5b7cb40841113",
+    "git_blob": "0a5b83c2a6a1de6c927e5361c6f2464242adc444"
+  },
+  {
+    "path": "assets/sprites/livestock_truck_rear.png",
+    "width": 132,
+    "height": 104,
+    "bytes": 22442,
+    "sha256": "bf1a52e99cdf1a6c1eb580f7d79ec26e35c1fd61d47926ed4f5712004f0711e9",
+    "git_blob": "59ff1ad8ec0d79d15e9f64d4961e900f114f8417"
+  },
+  {
+    "path": "assets/sprites/log_pile.png",
+    "width": 63,
+    "height": 51,
+    "bytes": 5988,
+    "sha256": "77aa5b37d3996d3f95b20d291095938c68a2559275568a164e44a21b5109ceb0",
+    "git_blob": "afbf1ca0679451d8125caed884993c83e1cebb93"
+  },
+  {
+    "path": "assets/sprites/lumber_bundle.png",
+    "width": 95,
+    "height": 51,
+    "bytes": 9134,
+    "sha256": "6dacb7186dfe685002da5b5de2d5f77dbb5ece99e057cc77cb497ac6e4f09113",
+    "git_blob": "6ef429b15596e7d0e51d831b91ea1851c34b3844"
+  },
+  {
+    "path": "assets/sprites/marker_destination.png",
+    "width": 59,
+    "height": 55,
+    "bytes": 4991,
+    "sha256": "42a377c335c4771eca623d7357fbac4b1941d9a831bf02c7f7db03b253452372",
+    "git_blob": "a64345426886be2e2670e8f848649c345127fd27"
+  },
+  {
+    "path": "assets/sprites/marker_facility.png",
+    "width": 56,
+    "height": 79,
+    "bytes": 7547,
+    "sha256": "dfd14e554fe38a37b35752e25ed43b0ff14f2accc6b4118df63c3fa33f9e3fc3",
+    "git_blob": "2aadf9c73736fdec8dce611283903cd8b2f7b1fc"
+  },
+  {
+    "path": "assets/sprites/masekitank.png",
+    "width": 77,
+    "height": 127,
+    "bytes": 17097,
+    "sha256": "b4985488eaae986da19f75532eaf7e9c0ea1db24964187062fb088ae09ffed28",
+    "git_blob": "c914e9b80438c9cbe577b4cbe631067ac560bea6"
+  },
+  {
+    "path": "assets/sprites/menu_board.png",
+    "width": 51,
+    "height": 70,
+    "bytes": 6587,
+    "sha256": "8ec5bec5c909fd935dde936476a35f553a09a78f23a13a11c8e1e473a330e85b",
+    "git_blob": "9c3357b826a7084654aa8f1c5b5c61d4311b2a3c"
+  },
+  {
+    "path": "assets/sprites/milk_stand.png",
+    "width": 62,
+    "height": 59,
+    "bytes": 6898,
+    "sha256": "5305b05d8679cf917ebe763f36bff1da1a2b9f7f0b53fe75562a7b00b01d57aa",
+    "git_blob": "c3480523ceaf60e9c9cba5a6639f94eac253ee74"
+  },
+  {
+    "path": "assets/sprites/milking_shed.png",
+    "width": 147,
+    "height": 121,
+    "bytes": 37075,
+    "sha256": "85eb46cb3f61c4f34e95508a5ebcfabaa2df6b55fee31deefc60080143397491",
+    "git_blob": "83936657fa5423c7ce176f0696c628d2ac928ddc"
+  },
+  {
+    "path": "assets/sprites/mizunomiba.png",
+    "width": 108,
+    "height": 69,
+    "bytes": 14009,
+    "sha256": "edb9ac1802846ada21f0cf61fec0f5a4b00e45cb5af2a018e7395b93ad51e925",
+    "git_blob": "05a789e42242745bdb0e727b6c2ff35161b7d07f"
+  },
+  {
+    "path": "assets/sprites/mizutank.png",
+    "width": 79,
+    "height": 102,
+    "bytes": 14834,
+    "sha256": "fcfceab16196133b37d2b35c6ad46bf26513cbdb7b449ee443ff69c20ff43ec3",
+    "git_blob": "a41d0125c8c4743fa9b98bd0fdd25b1459565785"
+  },
+  {
+    "path": "assets/sprites/mower.png",
+    "width": 98,
+    "height": 93,
+    "bytes": 15392,
+    "sha256": "3aaa15bb0f17991f2cb7e1d0e27236812189b780e63a906cf900dffdf6538951",
+    "git_blob": "737cf4770083f73f1ea07b8e90c7d46648e6f5a2"
+  },
+  {
+    "path": "assets/sprites/nails_bolts.png",
+    "width": 45,
+    "height": 40,
+    "bytes": 3160,
+    "sha256": "5787045e2646b1bc1e3bc4f646f1d5c30e03efda9f2d9f5344c54707f542f876",
+    "git_blob": "55cbf130503c625cccef5bfba1c3a8168696dede"
+  },
+  {
+    "path": "assets/sprites/npc_boy.png",
+    "width": 50,
+    "height": 74,
+    "bytes": 7454,
+    "sha256": "e906752fc86d3c15afc538ede3ca53c4c63da6960cc71b42b10dabfe6461df54",
+    "git_blob": "cc6ff82aaa8b5512ba4c2d3e58aaf3d8b92ef691"
+  },
+  {
+    "path": "assets/sprites/npc_farm_worker.png",
+    "width": 49,
+    "height": 73,
+    "bytes": 7459,
+    "sha256": "9b9c20989616046800fed3fb2cd5b62a43e9b481ef2d3298103d831537d9d582",
+    "git_blob": "3ac75752ace58b4de29e4c6ce6e83bfca74e2f89"
+  },
+  {
+    "path": "assets/sprites/npc_feed_dealer.png",
+    "width": 48,
+    "height": 73,
+    "bytes": 7276,
+    "sha256": "aaf675633eb11df7c8f1dd00a05c2634265a2ab26beece8598eec3d5536b91b2",
+    "git_blob": "25e1f0abe2be7750e28b8c5028d1082f52759159"
+  },
+  {
+    "path": "assets/sprites/npc_girl.png",
+    "width": 58,
+    "height": 74,
+    "bytes": 8427,
+    "sha256": "09da8542afe6935de5f30f01450bcab06f43598ac6d99d4dc51b80f7df851b9b",
+    "git_blob": "83aca5aa775276d9120252cb8fd129a63d277702"
+  },
+  {
+    "path": "assets/sprites/npc_grandma.png",
+    "width": 48,
+    "height": 69,
+    "bytes": 6938,
+    "sha256": "fc65bbd25f3da2a07deca65d780ad1fc512e4913d021e9699affbd1295bb9744",
+    "git_blob": "5a833dfdcd4592a4bd60bbd7688263af5c71e66b"
+  },
+  {
+    "path": "assets/sprites/npc_grandpa.png",
+    "width": 49,
+    "height": 69,
+    "bytes": 6756,
+    "sha256": "18f298c9e3588af9d223c955b928fffa5824d9765356d74d31eda92aa08ec8b2",
+    "git_blob": "3757fe426a3b5ce144db0eafd3f9a48d433aa951"
+  },
+  {
+    "path": "assets/sprites/npc_market_staff.png",
+    "width": 48,
+    "height": 69,
+    "bytes": 6589,
+    "sha256": "40b9c5d7bd3bdaeb561e227219e7c0a7307c5740079aa9b8efcca6382380bd2f",
+    "git_blob": "f58c726943f027c8ef6cea4f7ec8a2187411f87c"
+  },
+  {
+    "path": "assets/sprites/npc_vet.png",
+    "width": 49,
+    "height": 73,
+    "bytes": 7471,
+    "sha256": "c6d5536d3b4d3385ac81eee1978ea7deb96684070fa60065e023091f6e76628d",
+    "git_blob": "91bca10fbe69fac4fa2829842dbbc200971b22b6"
+  },
+  {
+    "path": "assets/sprites/pitchfork.png",
+    "width": 50,
+    "height": 72,
+    "bytes": 5652,
+    "sha256": "843881272a602a2ccd99e957397e4143067586270d6672ab2485a5f2d981b955",
+    "git_blob": "5d67b4bf6039837688200858cca09f32ea9a9d00"
+  },
+  {
+    "path": "assets/sprites/poster_board.png",
+    "width": 85,
+    "height": 68,
+    "bytes": 10855,
+    "sha256": "e1992752f5ea49aa8e9fd85d1bdcf92b4c078fe4bf8fcf639521e47a6ebf5b83",
+    "git_blob": "b79fb6277d4c57093364bf558828e376fde5f3e4"
+  },
+  {
+    "path": "assets/sprites/pump_house.png",
+    "width": 76,
+    "height": 80,
+    "bytes": 11107,
+    "sha256": "6695b717550041bff7d9380b25fd89680c57e4ee1dfc3de295a963ae14fed267",
+    "git_blob": "2cdecb4ad66dff1dcebae14dbc4d76fcb2a1a828"
+  },
+  {
+    "path": "assets/sprites/rabbit_hutch.png",
+    "width": 64,
+    "height": 78,
+    "bytes": 9945,
+    "sha256": "60b4507db7651e668170a45544fb7722365cef9e21300e75f81be08292ed6fa4",
+    "git_blob": "6db7569e567cdd2765a71ab035885faaf01d0179"
+  },
+  {
+    "path": "assets/sprites/rice_planter.png",
+    "width": 106,
+    "height": 83,
+    "bytes": 16660,
+    "sha256": "6eb9efdd2b2be74abbe3eb7d0e4a8dd813619d6c8a0296869f7a3527512cac40",
+    "git_blob": "d396a4bef3f6dc43122f60cce17f62d31162b345"
+  },
+  {
+    "path": "assets/sprites/rock.png",
+    "width": 72,
+    "height": 62,
+    "bytes": 8101,
+    "sha256": "0841e86086f85f429d02a282b4bf4a6018ff3f7cbd07438381921369d761dd04",
+    "git_blob": "11339a01c666395ebbc31e4df39cadb718d1a97f"
+  },
+  {
+    "path": "assets/sprites/rope.png",
+    "width": 57,
+    "height": 57,
+    "bytes": 6756,
+    "sha256": "e9757da9092e5d4122c4b3895691a333728fe172e7adabf7fdfded427434f91e",
+    "git_blob": "d7725f1b076e276ea5dcf8b9e8ab4404e770b091"
+  },
+  {
+    "path": "assets/sprites/round_baler.png",
+    "width": 90,
+    "height": 80,
+    "bytes": 14445,
+    "sha256": "df222d4f5b8a3df4da7cece477177b93589c8a4822c268ca2cd334be6a4cca49",
+    "git_blob": "d51f16937a582e5035000b214a235abc5b3e490d"
+  },
+  {
+    "path": "assets/sprites/sagyogoya.png",
+    "width": 121,
+    "height": 133,
+    "bytes": 29989,
+    "sha256": "877231802ba4b6da5f93b006a4a07f0bd62c8217484aa836e599858c1b6d4b4e",
+    "git_blob": "e50549c4def370efbd4e351fa45019ec20a12ff4"
+  },
+  {
+    "path": "assets/sprites/scale.png",
+    "width": 64,
+    "height": 75,
+    "bytes": 9094,
+    "sha256": "1c2cbeb5cad0eb6a90886c4a439906aeaba8aaa6babfbd4eccde69059053e4dc",
+    "git_blob": "c990300c305ae9733d666bb2d2cea3ebdbf8444a"
+  },
+  {
+    "path": "assets/sprites/scarecrow.png",
+    "width": 64,
+    "height": 79,
+    "bytes": 8984,
+    "sha256": "21fd158d7b20f050b7a930ef43659acdbeec6683293d48bc45b10e89efa9d278",
+    "git_blob": "7f3d28054b78e02ea82191d38bf5ed581bcab053"
+  },
+  {
+    "path": "assets/sprites/seed_storage.png",
+    "width": 87,
+    "height": 84,
+    "bytes": 13750,
+    "sha256": "b3a12bd8309029b9302bbd0205275b0d4717d4e03884087c10c95e02fd6cff2f",
+    "git_blob": "241d2b4bfbee8ee7c5ef4366c3092534b131fe31"
+  },
+  {
+    "path": "assets/sprites/shipping_truck_away_1.png",
+    "width": 120,
+    "height": 104,
+    "bytes": 19035,
+    "sha256": "69a827da3bef164b0862c4ee9a0a885555fc3bb47425a33a10fa892fdae213d8",
+    "git_blob": "6f26c9f2819e20fb51ccd1033cd0ca5d5f359faa"
+  },
+  {
+    "path": "assets/sprites/shipping_truck_away_2.png",
+    "width": 96,
+    "height": 104,
+    "bytes": 16685,
+    "sha256": "841325392fb095bea565e5919c14ba111f417cd02ee676f73236d98bb9042c64",
+    "git_blob": "c80ca5f7f3cc8fdc940b0efe31a9e9ab6d5d8e19"
+  },
+  {
+    "path": "assets/sprites/shiryo_mixer.png",
+    "width": 124,
+    "height": 112,
+    "bytes": 25643,
+    "sha256": "e0ec61290de428c7dc6fe58f6db552cd29a1ab8313654c68bad3779d23a640b6",
+    "git_blob": "953ec889d0c112b325ea92509ce70bc6a3f7d0f1"
+  },
+  {
+    "path": "assets/sprites/shiryoko.png",
+    "width": 164,
+    "height": 145,
+    "bytes": 45609,
+    "sha256": "ebb2a102a5f2a621ce57892ad1144e0e59dd0b58114ff46b78451b4be04ae396",
+    "git_blob": "5b3a48191036d2072c0a0e1e9c01daae9ae10e1d"
+  },
+  {
+    "path": "assets/sprites/shovel.png",
+    "width": 50,
+    "height": 72,
+    "bytes": 5859,
+    "sha256": "68638a84ac2248652be583ddfef40226b86fb501f0d2221ba62503750f00febd",
+    "git_blob": "3f0f31397e3426d527cd5770d185a3979ea0dae3"
+  },
+  {
+    "path": "assets/sprites/sickle.png",
+    "width": 59,
+    "height": 67,
+    "bytes": 5538,
+    "sha256": "2105b9da00e7c3e232c9249c1672b204b335db4d0e0ca79f738e52561c98e2c2",
+    "git_blob": "5051b97b2155a858a6a545812ed0bd9d0fc9f03c"
+  },
+  {
+    "path": "assets/sprites/sign_guide.png",
+    "width": 57,
+    "height": 61,
+    "bytes": 5068,
+    "sha256": "af06f0f314f4012e1109fa54bff42a333416829e09932a3186f24538d84197e5",
+    "git_blob": "d5add98a704116b04ddacb332f39867b25037ce9"
+  },
+  {
+    "path": "assets/sprites/sign_standing.png",
+    "width": 62,
+    "height": 62,
+    "bytes": 7380,
+    "sha256": "888edd39dad2903173255f67e73d438e472c8d216d23d6c2a51d361cc9cdd097",
+    "git_blob": "4c01fa7c6a0b983f3255353ebf88b4ea454bc8a9"
+  },
+  {
+    "path": "assets/sprites/sign_warning.png",
+    "width": 68,
+    "height": 63,
+    "bytes": 8326,
+    "sha256": "219f2f320b332b5a5f4e773d7d1ecfab7a40951ace6064210cca3ff3e8118962",
+    "git_blob": "687722a511a630261091f63118ecb3a879102401"
+  },
+  {
+    "path": "assets/sprites/silo.png",
+    "width": 88,
+    "height": 177,
+    "bytes": 28465,
+    "sha256": "9461d07e317695d5d13dc9ba63515e8f980828539afbba998d227060de05d65a",
+    "git_blob": "ef92749d65f62a5233a40582dc2731bf4801245a"
+  },
+  {
+    "path": "assets/sprites/small_windmill.png",
+    "width": 60,
+    "height": 100,
+    "bytes": 8211,
+    "sha256": "2bb6c54bd0159c9d45cae0644cacb7b12b27440c4d6660e1b82e3a9e3ba1aeb5",
+    "git_blob": "b0b6ed1b325c5ddbd99fc2d6ae425ee331983b02"
+  },
+  {
+    "path": "assets/sprites/solar_panel.png",
+    "width": 80,
+    "height": 58,
+    "bytes": 9012,
+    "sha256": "f5c29eb7efacb580353925aca00e72f66b8c478c8289d1df1eb5fe944a190249",
+    "git_blob": "12934e48e545543267e07e94859b2008f9a72fc3"
+  },
+  {
+    "path": "assets/sprites/steel_plate.png",
+    "width": 60,
+    "height": 48,
+    "bytes": 5779,
+    "sha256": "f752c0985fb594f7186988364d845a81288b40c76f9caaba14d988cf0aa6d273",
+    "git_blob": "0534a9068eaf178ac6674f9b31d0d0aa994516fb"
+  },
+  {
+    "path": "assets/sprites/taihisha.png",
+    "width": 161,
+    "height": 108,
+    "bytes": 34299,
+    "sha256": "704abcce930fc3345336f41b6de6a74de5e524701e2da26e5d9ae7ef56caf205",
+    "git_blob": "ecad3717d66864d3aef33212cf7e305b126f0fae"
+  },
+  {
+    "path": "assets/sprites/tile_bokujo_michi.png",
+    "width": 109,
+    "height": 109,
+    "bytes": 22936,
+    "sha256": "dbc52f722724bbb788ae2aa6e552dbd111fe8925a2e32a80bb04dcf2fc3ffee8",
+    "git_blob": "b6fb95e7dbecfbb1b1fbbcc54ee96c53eba48120"
+  },
+  {
+    "path": "assets/sprites/tile_doro.png",
+    "width": 111,
+    "height": 109,
+    "bytes": 23195,
+    "sha256": "e0254c47dd35dcbbf1e56af4967aa4fc9463a7a3a9b2990af0cfc75f04600898",
+    "git_blob": "5e9538d2a7c999a8b07647e05d43b53744d68ef3"
+  },
+  {
+    "path": "assets/sprites/tile_hatake.png",
+    "width": 111,
+    "height": 109,
+    "bytes": 24198,
+    "sha256": "71b3c6310d8b584f6368b97592a0b949762c7adb8a47a18aa55be1f681cc7df3",
+    "git_blob": "bd778c952d91ef168e21f07f9f59a91a8b4add67"
+  },
+  {
+    "path": "assets/sprites/tile_ishidatami.png",
+    "width": 109,
+    "height": 109,
+    "bytes": 23356,
+    "sha256": "c8f97bceb095a39f8f05c05a309c89c8bded00f002b841d9410e9d88b0549ba6",
+    "git_blob": "905b9637bbc8dfbe81e18dffdb04a7202fcd0875"
+  },
+  {
+    "path": "assets/sprites/tile_kusa_nagame.png",
+    "width": 110,
+    "height": 109,
+    "bytes": 25392,
+    "sha256": "b29add2284808b77ad02a089f1bee355e3bf5e40f78892686fe75f4571b282fb",
+    "git_blob": "4c65d66e6ad281f7278922b05c223361bfc38434"
+  },
+  {
+    "path": "assets/sprites/tile_kusachi.png",
+    "width": 111,
+    "height": 105,
+    "bytes": 22163,
+    "sha256": "52815c08fe7c67f5dd48e1c66a2f62e35658ce5ae27904fd427948a1a5f80ed2",
+    "git_blob": "793bb2a5c3e0f6cd906837913ca3f8b7ea53894d"
+  },
+  {
+    "path": "assets/sprites/tile_saku_no_naka.png",
+    "width": 111,
+    "height": 111,
+    "bytes": 25468,
+    "sha256": "b8c38380d5fcc5a6a11b5538917d33a58d831c8735e4b417288ffbe0f4eaae93",
+    "git_blob": "b18724d2832ec7bc8a36cb0a2070865fdcce327a"
+  },
+  {
+    "path": "assets/sprites/tile_tochi.png",
+    "width": 109,
+    "height": 105,
+    "bytes": 21137,
+    "sha256": "3259d17035dce96a8e5afa203dc0a305fc67ad1d132c436e9517698b524fd8f3",
+    "git_blob": "776c0d4172996a0ab996ef5d62729c811a5f2d2e"
+  },
+  {
+    "path": "assets/sprites/tractor.png",
+    "width": 126,
+    "height": 113,
+    "bytes": 25967,
+    "sha256": "69134786c040648c67f5cf6606ace921d8d597e374027461b9f1d29b2108f395",
+    "git_blob": "f03815ac58348907ddf482943b9fbb0c4787fae8"
+  },
+  {
+    "path": "assets/sprites/tree_large.png",
+    "width": 150,
+    "height": 120,
+    "bytes": 30323,
+    "sha256": "57219bb03517bc51457db5c80592b20183497179a96018ebd1ccba24e4ccd962",
+    "git_blob": "f04e85e3e01c9da60762d03e13e0a10adabb6df4"
+  },
+  {
+    "path": "assets/sprites/tree_small.png",
+    "width": 78,
+    "height": 100,
+    "bytes": 14480,
+    "sha256": "0c3b031f853d2bd4b6ab6ec3c6210d013ca6f6003b45625183b90a730a8eefcd",
+    "git_blob": "cec0525c7ea0f90cc065c2f454945582d7c050a8"
+  },
+  {
+    "path": "assets/sprites/tree_stump.png",
+    "width": 73,
+    "height": 66,
+    "bytes": 8693,
+    "sha256": "ba7107d38d89be96b00494c9d4e8faa942b02099d638b055009d4b933d6b119c",
+    "git_blob": "20858fbc9d14d95be2e075d02d25ef3941876aee"
+  },
+  {
+    "path": "assets/sprites/ui_button_example.png",
+    "width": 128,
+    "height": 61,
+    "bytes": 11353,
+    "sha256": "ef5ce9649e774b14ede845062e4f6c211d88b66a28c3a23492b90a0b59f84202",
+    "git_blob": "9f397ce0679fa986ddffeff83565d2d4658fe2fb"
+  },
+  {
+    "path": "assets/sprites/ui_menu_panel.png",
+    "width": 160,
+    "height": 100,
+    "bytes": 24368,
+    "sha256": "aafaab3e6fda9d16cb441262d741fc2edd590429e150abb062fd134b39425a4c",
+    "git_blob": "d29f3a5b4e57742bc7ffbc6f3548883d94d87c22"
+  },
+  {
+    "path": "assets/sprites/ui_message_frame.png",
+    "width": 167,
+    "height": 93,
+    "bytes": 18251,
+    "sha256": "e888df7b58befe92097414d2f398dc46c570286726b089b045f924e4564e6e1c",
+    "git_blob": "fa65e5a9b409d3504ad0f3107071193cbadacbe1"
+  },
+  {
+    "path": "assets/sprites/warehouse.png",
+    "width": 130,
+    "height": 121,
+    "bytes": 33030,
+    "sha256": "87336ffcd3e18cc24934dd24c44396046d2ceae209f1f55c9eb938cc2101ae6d",
+    "git_blob": "37cda426acfd52bdc819eacf14d99adf0fd564c1"
+  },
+  {
+    "path": "assets/sprites/water_cup.png",
+    "width": 42,
+    "height": 73,
+    "bytes": 5470,
+    "sha256": "b778005193d210626726650f989ac4aa7cb9175d3b429c2c8a8b6c8c17a1162c",
+    "git_blob": "687ad90cc4dc8d274963a410a67a73291cd41c5d"
+  },
+  {
+    "path": "assets/sprites/water_tank.png",
+    "width": 59,
+    "height": 89,
+    "bytes": 9863,
+    "sha256": "70afbbf116d652d5b19d392cb7b941f32c7ed6a1c4f9b7af940d6e6480c81aef",
+    "git_blob": "11f73dc01b5a7edaf3475563e9227c16cf8b86d5"
+  },
+  {
+    "path": "assets/sprites/wheel_loader.png",
+    "width": 177,
+    "height": 111,
+    "bytes": 35566,
+    "sha256": "00189acef1a83b6405ab034475c15d5f5902eb5a881a404704377a6f62996479",
+    "git_blob": "b26b1c63104711dee585b0c92791fe772b96d049"
+  },
+  {
+    "path": "assets/sprites/wheelbarrow.png",
+    "width": 77,
+    "height": 61,
+    "bytes": 8642,
+    "sha256": "655651cab66bfdbcd5cc8551d6219eb569617cfee55a6015a78faabac9552dc3",
+    "git_blob": "bb9a6b0f9393f21d0966a90958844ed98e4ec946"
+  },
+  {
+    "path": "assets/sprites/wildflowers.png",
+    "width": 70,
+    "height": 67,
+    "bytes": 10024,
+    "sha256": "a59e1ea0a5ff3ecbdf5adc5187b7d2b88ae9a10e06b07414c9e10d125fd68706",
+    "git_blob": "576d07822d25a4cac9844579df5b618783355eb1"
+  },
+  {
+    "path": "assets/sprites/workshop.png",
+    "width": 158,
+    "height": 135,
+    "bytes": 41594,
+    "sha256": "79a31a8f35276a5188d4839ba1d0fd0d04126443ee8005b91e77d17c87b7c47e",
+    "git_blob": "8fc3382ac8a1932941141e81ed5b79006a779c7f"
+  },
+  {
+    "path": "assets/sprites/wrap_wara.png",
+    "width": 198,
+    "height": 121,
+    "bytes": 42520,
+    "sha256": "901e79a0ddd605fba6c8a78a4c4c17dd5a92374fea94cc6aeb89ff6cd97dbefc",
+    "git_blob": "aef428a4e2c37792ef0b5b872e393aeddfc195a4"
+  }
+]
